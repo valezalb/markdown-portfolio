@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Life
+2. Water
+3. Shelter
